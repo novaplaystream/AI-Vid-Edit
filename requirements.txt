@@ -1,4 +1,5 @@
-moviepy==1.0.3
+streamlit
+moviepy>=2.0.0          
 faster-whisper
 litellm
 python-dotenv
@@ -6,3 +7,9 @@ requests
 pexels-api
 pixabay-python
 Pillow
+
+# Extra important dependencies 
+ffmpeg-python
+pydub
+librosa
+numpy
